@@ -1,0 +1,8 @@
+#ifndef DAACI_PLUGIN_SUITE__DAY1_H
+#define DAACI_PLUGIN_SUITE__DAY1_H
+
+
+
+
+
+#endif //DAACI_PLUGIN_SUITE__DAY1_H

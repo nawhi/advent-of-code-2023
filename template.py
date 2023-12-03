@@ -1,10 +1,10 @@
 import unittest
-from typing import List
+from typing import Iterable
 
 from loaders import load_input, load_example
 
 
-def process_lines(lines: List[str]):
+def process_lines(lines: Iterable[str]):
     pass
 
 
